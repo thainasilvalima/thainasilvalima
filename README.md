@@ -1,4 +1,4 @@
-## Olá! Eu sou a Thaina Lima 👋
+## Olá! Eu sou a Thaina Lima, mas pode me chamar de thai 👋
 
 <h3 align="left">Vamos nos conectar 🔗 </h3>
 <p align="left">
@@ -9,13 +9,13 @@
   <img align="right" alt="thai-pic" height="165" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202302/1342558_MKJz9Wzc.png">
 
 <p>🌱 Estudo Análise e Desenvolvimento de Sistemas </p>
-<p>🌱 Cursos intensivos como Bootcamp de Desenvolvedor Junior em Java.</p> 
+<p>🌱 Cursos intensivos como Bootcamp de Desenvolvedor Full Stack Junior em Java.</p> 
 <p>👩 Pronouns: Ela\Dela.</p>
-<p>Estou aprimorando meu conhecimentos na área da tecnologia, gosto de aprender coisas novas e priorizo a empatia.</p> 
+<p>Estou aprimorando meu conhecimentos na área da tecnologia, gosto de aprender coisas novas, priorizo a empatia, adoro me comunicar de forma clara e objetiva. Estou apta para entrar no mercado de trabalho e evoluir minhas Soft Skills.</p> 
 
 
 
-## Tecnologias que estou aprendendo
+## Tecnologias que estou aprendendo:
 
 <div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
