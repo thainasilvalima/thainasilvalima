@@ -24,6 +24,6 @@
     <img align="center" alt="jv" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     <img align="center" alt="rct" src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white"/> </div>
    
-   <h3 align="center" style="border-radius:50px;"> Eu também gosto muito de música 🎶 <br><br>
+   <h3 style="border-radius:50px;"> Eu também gosto muito de música 🎶 <br><br>
   
    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=thaiburnsred) 
