@@ -23,4 +23,3 @@
 
 </div>
 
-<div style="display:inline_block" align="center"> <img align="center" alt="gif" height="400" width="800" src="https://img.freepik.com/vetores-gratis/projeto-de-vetor-de-trabalho-de-escritorio-de-garota-de-programador-de-software_107791-20453.jpg?w=1380&t=st=1689384980~exp=1689385580~hmac=ba8af3116e13f406efc3e6a40f4d2b18fd52f2b5eb69d42eb81c0ee083fa4458"/>  </div>
